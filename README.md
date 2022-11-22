@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ptr1337</h1>
-<h3 align="center">Hobby developer from germany</h3>
+<h3 align="center">Developer from germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptr1337&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="ptr1337" /> </p>
 
