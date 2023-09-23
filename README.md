@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptr1337&theme=onedark" alt="ptr1337" /></a> </p>
 
-- 🔭 I’m currently working on [CachyOS](https://github.com/CachyOS)
+- 🔭 Founder and Develoepr of [CachyOS](https://github.com/CachyOS)
 
 - 🌱 I’m currently learning **GO, C**
 
