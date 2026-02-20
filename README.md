@@ -1,6 +1,6 @@
 ## Peter Jung
 
-**Founder & Lead Developer of [CachyOS](https://cachyos.org)** | Arch Linux Package Maintainer | Germany
+**Founder & Developer of [CachyOS](https://cachyos.org)** | Arch Linux Package Maintainer | Germany
 
 Building a performance-optimized Arch-based distribution with custom kernels, sched_ext schedulers, and system-wide optimizations.
 
